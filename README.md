@@ -21,17 +21,21 @@ Simon Says Game - An STM32CubeIDE project implementing a classic Simon Says memo
 - **English Documentation (automatically translated):**  
   [Final project CA LAB - Kondrat Ochrymiuk.pdf](./Final%20project%20CA%20LAB%20-%20Kondrat%20Ochrymiuk.pdf)
 
-## Electronic Schematic and PCB
+## Electronic Schematic and PCB Layout
 
-The electronic schematic and PCB layout for this project:
+This section provides a detailed view of the hardware design for the Simon Says game, including the complete electronic schematic and the corresponding PCB layout.
 
-### Electronic Schematic:
+### Electronic Schematic
 
-![schematic.png](./schematic.png)
+The schematic diagram below illustrates the circuit design, including the microcontroller, LED drivers, button interfaces, and LCD connections used in the project.
 
-### PCB Layout:
+![Electronic Schematic](./schematic.png)
 
-![pcb.png](./pcb.png)
+### PCB Layout
+
+The PCB layout shown below represents the final board design. It details the placement of components and the routing of connections necessary to implement the circuit.
+
+![PCB Layout](./pcb.png)
 
 ## Repository Structure
 
