@@ -31,7 +31,7 @@ The schematic diagram below illustrates the circuit design, including the microc
 
 This resistor value was chosen simply because it was the only type I've had that could safely drive the LEDs without risk of damage :)
 
-For more information on calculating LED resistor values, check out this article: [How to Calculate an LED Resistor](https://www.circuitspecialists.com/blog/5-steps-to-calculate-the-resistor-value-for-leds/)
+For more information on calculating LED resistor values, check out this article: [5 Steps to Calculate the Resistor value for LEDs](https://www.circuitspecialists.com/blog/5-steps-to-calculate-the-resistor-value-for-leds/)
 
 ![Electronic Schematic](./schematic.png)
 
