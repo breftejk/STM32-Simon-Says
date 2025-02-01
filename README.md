@@ -48,4 +48,4 @@ Simply download and extract the [gerber.zip](./gerber.zip) file to access the in
 - **simon/**  
   Contains the STM32CubeIDE project files.
 
-- Documentation and design files (schematic and PCB) are located in the repository root.
+- Documentation and design files (schematic, PCB and gerber files) are located in the repository root.
