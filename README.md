@@ -1,6 +1,6 @@
 # Simon Says Game
 
-This repository contains the source code for a Simon Says game project developed for an STM32 microcontroller using STM32CubeIDE. The project was created as a final project for the CA LAB course.
+Simon Says Game - An STM32CubeIDE project implementing a classic Simon Says memory game with LED sequences, multi-player support, and ranking systems. Developed as a project for the Computer Architecture course at Bialystok University of Technology. Documentation is available in both Polish and English.
 
 ## Project Overview
 
@@ -8,10 +8,10 @@ This repository contains the source code for a Simon Says game project developed
   A Simon Says game where players must memorize and repeat a sequence of LED signals. The difficulty increases with each level.
 
 - **Features:**
-    - Random sequence generation for LED signals.
-    - Support for multiple players (up to 4), with username input via UART.
-    - LCD-based menu system for game navigation and rankings.
-    - Global and session ranking systems.
+  - Random sequence generation for LED signals.
+  - Support for multiple players (up to 4), with username input via UART.
+  - LCD-based menu system for game navigation and rankings.
+  - Global and session ranking systems.
 
 ## Documentation
 
@@ -21,9 +21,16 @@ This repository contains the source code for a Simon Says game project developed
 - **English Documentation (automatically translated):**  
   [Final project CA LAB - Kondrat Ochrymiuk.pdf](./Final%20project%20CA%20LAB%20-%20Kondrat%20Ochrymiuk.pdf)
 
+## Electronic Schematic and PCB
+
+The electronic schematic and PCB layout for this project are included in the repository:
+
+- **Electronic Schematic:** [schematic.png](./schematic.png)
+- **PCB Layout:** [pcb.png](./pcb.png)
+
 ## Repository Structure
 
 - **simon/**  
   Contains the STM32CubeIDE project files.
 
-- Documentation files are located in the repository root.
+- Documentation and design files (schematic and PCB) are located in the repository root.
