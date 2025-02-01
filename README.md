@@ -23,10 +23,15 @@ Simon Says Game - An STM32CubeIDE project implementing a classic Simon Says memo
 
 ## Electronic Schematic and PCB
 
-The electronic schematic and PCB layout for this project are included in the repository:
+The electronic schematic and PCB layout for this project:
 
-- **Electronic Schematic:** [schematic.png](./schematic.png)
-- **PCB Layout:** [pcb.png](./pcb.png)
+### Electronic Schematic:
+
+![schematic.png](./schematic.png)
+
+### PCB Layout:
+
+![pcb.png](./pcb.png)
 
 ## Repository Structure
 
