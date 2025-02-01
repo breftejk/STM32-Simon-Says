@@ -37,6 +37,12 @@ The PCB layout shown below represents the final board design. It details the pla
 
 ![PCB Layout](./pcb.png)
 
+## Gerber Files
+
+The complete set of Gerber files for PCB fabrication is provided as a single ZIP archive in the repository. This archive contains all the necessary layers for manufacturing the PCB, including copper, solder mask, silkscreen, and drill files.
+
+Simply download and extract the [gerber.zip](./gerber.zip) file to access the individual Gerber files.
+
 ## Repository Structure
 
 - **simon/**  
