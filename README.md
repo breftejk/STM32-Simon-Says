@@ -29,6 +29,10 @@ This section provides a detailed view of the hardware design for the Simon Says 
 
 The schematic diagram below illustrates the circuit design, including the microcontroller, LED drivers, button interfaces, and LCD connections used in the project.
 
+This resistor value was chosen simply because it was the only type I've had that could safely drive the LEDs without risk of damage :)
+
+For more information on calculating LED resistor values, check out this article: [How to Calculate an LED Resistor](https://www.circuitspecialists.com/blog/5-steps-to-calculate-the-resistor-value-for-leds/)
+
 ![Electronic Schematic](./schematic.png)
 
 ### PCB Layout
